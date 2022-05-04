@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="about" element={<About/>}/>
-        <Route path="privacy" element={<Privacy/>}/>
+        <Route path="/mygitpage" element={<Home/>}/>
+        <Route path="/mygitpage/about" element={<About/>}/>
+        <Route path="/mygitpage/privacy" element={<Privacy/>}/>
       </Routes>
     </div>
     );
