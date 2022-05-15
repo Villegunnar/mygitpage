@@ -5,7 +5,7 @@ import './Css/mobile.css'
 // import HamburgerMenu from "./Js/HambugerMenu.js";
 // import EasterEgg from './EasterEgg.js';
 // import PreviousWork from './PreviousWork.js';
-import GitRepos from './GithubApi.js';
+// import GitRepos from './GithubApi.js';
 
 
 
@@ -223,7 +223,7 @@ function Portfolio() {
         </div>
       </header>
 
-      <GitRepos />
+      {/* <GitRepos /> */}
 
 
       <section className="portfolio container">
