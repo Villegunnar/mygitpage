@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/mygitpage/static/css/main.073c9b0a.css",
-    "main.js": "/mygitpage/static/js/main.a7f70270.js",
-    "index.html": "/mygitpage/index.html",
-    "main.073c9b0a.css.map": "/mygitpage/static/css/main.073c9b0a.css.map",
-    "main.a7f70270.js.map": "/mygitpage/static/js/main.a7f70270.js.map"
+    "main.css": "/mygitpage/home/static/css/main.8ad61d58.css",
+    "main.js": "/mygitpage/home/static/js/main.a53ae1d4.js",
+    "static/media/codepic.jpg": "/mygitpage/home/static/media/codepic.a2e3ef5fef2cddde8f27.jpg",
+    "static/media/IMG_20220331_192624_1102.jpg": "/mygitpage/home/static/media/IMG_20220331_192624_1102.8dafe1a0b7f134c413a9.jpg",
+    "static/media/Lion Project.png": "/mygitpage/home/static/media/Lion Project.145776978feca30b5d00.png",
+    "static/media/golf.jpg": "/mygitpage/home/static/media/golf.d64ab4677c500d20c210.jpg",
+    "static/media/Avancerad.NetProjectbild.png": "/mygitpage/home/static/media/Avancerad.NetProjectbild.f68b43d44fd387e4f50d.png",
+    "static/media/prj-5.png": "/mygitpage/home/static/media/prj-5.76269b27a6f1b85fbe73.png",
+    "static/media/DatabasProjekt.png": "/mygitpage/home/static/media/DatabasProjekt.bdc1c5ac2a3e63adc39e.png",
+    "static/media/prj-4.png": "/mygitpage/home/static/media/prj-4.f5217c2f8cb191814b38.png",
+    "index.html": "/mygitpage/home/index.html",
+    "main.8ad61d58.css.map": "/mygitpage/home/static/css/main.8ad61d58.css.map",
+    "main.a53ae1d4.js.map": "/mygitpage/home/static/js/main.a53ae1d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a7f70270.js"
+    "static/css/main.8ad61d58.css",
+    "static/js/main.a53ae1d4.js"
   ]
 }
