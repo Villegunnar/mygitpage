@@ -1,4 +1,7 @@
-* Global Styling */ * {
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/* Global Styling */
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -101,6 +104,7 @@ a:active {
 .container {
     width: 80%;
     margin: 60px auto;
+
 }
 
 .row {
@@ -178,6 +182,7 @@ a:active {
     border-radius: 50%;
 }
 
+.portfoliopic {}
 
 .projectLionPic {
     width: 300px;
@@ -203,17 +208,20 @@ a:active {
     height: 70vh;
 }
 
-
-/* margin-bottom: -485px;   <---- Den la jag till själv */
 .header .col-1 {
     width: 100%;
     flex-direction: column;
     padding: 30px;
     justify-content: space-around;
+
+
 }
 
+.header .col-1 p {
+    margin-left: 0px;
+    /* margin-top: 0px; */
+}
 
-/* <-----han tog bort den*/
 .header .col-2 {
     width: 100%;
 }
@@ -417,6 +425,10 @@ a:active {
     font-size: 20px;
     font-style: bold;
     font-weight: bolder;
+
+
+
+
 }
 
 .scripttest .scriptcontainer button {
@@ -445,5 +457,34 @@ a:active {
     height: 200px;
     width: 200px;
     cursor: pointer;
+    color: #18e018;
+    font-weight: bold;
+    font-size: 20px;
 
+
+
+}
+
+#easterEgg2 {
+    display: none;
+    z-index: 10000;
+    position: fixed;
+    padding-top: 40vh;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 200px;
+    color: white;
+}
+
+/* RepoStyling */
+
+.repos {
+    background-color: #0c2733;
+
+}
+.repos .buttonL a{
+    color: #000000;
+    font-size: 20px;
 }
